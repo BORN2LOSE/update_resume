@@ -22,7 +22,7 @@ pipenv install
 ### Использование
 
 ```bash
-pipenv run python src/update_resume.py
+pipenv run python src/main.py
 ```
 
 ### Crontab
